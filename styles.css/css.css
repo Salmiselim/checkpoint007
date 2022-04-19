@@ -1,0 +1,17 @@
+nav {display: inline;}
+p {font-size: 17pt;}
+li{font-size: 22pt;
+font-weight: bolder
+;background:red;
+color: gold;}
+body{color: bisque;
+    background-color: rgb(28, 28, 29);}
+    a{color: cornsilk;  padding-left: 7pt;
+        padding-right: 7pt;
+        padding-top: 7pt;
+        padding-bottom: 7pt;
+border: dotted gold;
+font-style: italic ;}
+
+p::selection{background-color:darkblue}
+.ss{style:none;background-color:red}
